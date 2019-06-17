@@ -1,0 +1,1 @@
+db.getCollection('vacinas').insertMany([{"idAnimal":"1", "peso":"10", "dosagem":"10", "aplicador" : "padrao", "descricaoMedicamento" : "Dipirona" }, {"idAnimal":"2", "peso":"50", "dosagem":"30", "aplicador" : "padrao", "descricaoMedicamento" : "Ivomec" }]);
